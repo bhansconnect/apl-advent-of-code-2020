@@ -1,0 +1,1 @@
+ loadlines←{((⎕UCS 10)∘≠⊆⊢)⊃∘⎕NGET⍵}
